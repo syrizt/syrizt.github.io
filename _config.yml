@@ -1,5 +1,5 @@
 # Site settings
-title: Cybersecurity Specialist - Red Teamer
+title: Syrizt - Hacker
 description: "A blog about nothing special"
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://syrizt.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
@@ -7,7 +7,7 @@ url: "https://syrizt.github.io" # for test: remove string 'http://victorvoid.git
 # User settings
 username: Syrizt
 user_title: Syrizt
-email: syrizt@syrizt.xyz
+email: 
 twitter_username: 
 github_username:  Syrizt
 discord_invite:  # Example: Discord server invite gg extension like in 'https://discord.gg/cj5rg'
